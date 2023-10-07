@@ -1,0 +1,1 @@
+# armandogarciamoreno.github.io![Uploading DALL·E 2023-10-07 09.49.16 - Illustration of a zipped folder icon labeled 'website_files.zip', representing the basic files for Armando Garcia's personal website.png…]()

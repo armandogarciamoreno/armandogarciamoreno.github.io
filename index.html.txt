@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Armando Garcia - Diseñador Gráfico y Fotógrafo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <nav>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#acerca">Acerca de mí</a></li>
+            <li><a href="#portafolio">Portafolio</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section id="inicio">
+    <img src="armando-photo.jpg" alt="Foto de Armando Garcia">
+    <p>Hola, soy Armando Garcia. Diseñador gráfico y fotógrafo con más de 10 años de experiencia. Bienvenidos a mi espacio digital.</p>
+</section>
+
+<!-- Otras secciones aquí -->
+
+</body>
+</html>
